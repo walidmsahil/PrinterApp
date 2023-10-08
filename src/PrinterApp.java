@@ -22,6 +22,7 @@ public class PrinterApp {
 //Finding the product of the two numbers
 	int multiplication;
 	multiplication = number1 * number2;
+	System.out.println(number1 + "*" + number2 + "=" + multiplication);
 	
 	}		
 
