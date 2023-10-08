@@ -16,6 +16,10 @@ public class PrinterApp {
 	int number2 = 5;
 //Print number1 to console
 	System.out.print(number1);
+	System.out.println("The value of number1 is " + number1);
+//Print number2 to console
+	System.out.println("The value of number2 is " + number2);
+	
 	}		
 
 }
