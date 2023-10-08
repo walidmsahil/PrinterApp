@@ -6,10 +6,11 @@ public class PrinterApp {
 //Print "Printer App" to the console
 	System.out.println("Printer App");
 //Print “This app is made by:” to the console
-	System.out.println("This app is made by:");
+	System.out.print("This app is made by:");
 //Assign my name to a string variable
 	String creator = "Walid Jahin Mazumder";
-	
+//Print my name next to last line
+	System.out.println(creator);
 	
 
 	}
