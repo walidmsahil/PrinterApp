@@ -11,10 +11,11 @@ public class PrinterApp {
 	String creator = "Walid Jahin Mazumder";
 //Print my name next to last line
 	System.out.println(creator);
-//Declaring 2 numeric values
+//Declaring 2 numeric variables and assigning values to them
 	int number1 = 10;
 	int number2 = 5;
-
-	}
+//Print number1 to console
+	System.out.print(number1);
+	}		
 
 }
