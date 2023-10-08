@@ -27,6 +27,9 @@ public class PrinterApp {
 	int addition;
 	addition = number1 + number2;
 	System.out.println(number1 + "+" + number2 + "=" + addition);
+//Finding the difference
+	int subtraction;
+	subtraction = number1 - number2;
 	
 	}		
 
