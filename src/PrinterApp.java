@@ -34,6 +34,7 @@ public class PrinterApp {
 //Finding the quotient
 	double division;
 	division = number1/number2;
+	System.out.println(number1 + "/" + number2 + "=" + division);
 	
 	}		
 
