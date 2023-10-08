@@ -23,7 +23,9 @@ public class PrinterApp {
 	int multiplication;
 	multiplication = number1 * number2;
 	System.out.println(number1 + "*" + number2 + "=" + multiplication);
-	
+//Finding the sum
+	int addition;
+	addition = number1 + number2;
 	}		
 
 }
