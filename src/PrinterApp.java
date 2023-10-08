@@ -30,6 +30,7 @@ public class PrinterApp {
 //Finding the difference
 	int subtraction;
 	subtraction = number1 - number2;
+	System.out.println(number1 + "-" + number2 + "=" + subtraction);
 	
 	}		
 
