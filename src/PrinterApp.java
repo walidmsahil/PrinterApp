@@ -19,6 +19,8 @@ public class PrinterApp {
 	System.out.println("The value of number1 is " + number1);
 //Print number2 to console
 	System.out.println("The value of number2 is " + number2);
+//Declaring integer type variable called "multiplication"
+	int multiplication;
 	
 	}		
 
